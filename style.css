@@ -8,6 +8,10 @@ body {
     border: solid red 3px;
 }
 
-.container div {
+.container > div {
     border: solid blue 3px;
+}
+
+.choice-container {
+    /* border: solid green 3px; */
 }
